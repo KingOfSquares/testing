@@ -3,7 +3,8 @@ maps:
   - name: Arctic Outpost
     modes:
       - Team Deathmatch
-      - Team King of the Flag
+      - 
+  simone:
   - name: Brickton
     modes:
       - Team Deathmatch
