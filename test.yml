@@ -1,3 +1,4 @@
+min_players: 4
 maps:
   - name: Arctic Outpost
     modes:
@@ -149,6 +150,6 @@ maps:
   - name: Treeshroud
     modes: 
       - Neutral Flag
-  - name: Ollie
+  - name: 1
     modes: 
       - Attrition
