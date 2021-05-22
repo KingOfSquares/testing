@@ -19,4 +19,10 @@ jobs:
           config_data: |
             rules:
               document-start:
-                present: false          
+                present: false         
+      - name: YAML schema
+        uses: navikt/yaml-validator@v2
+        with:
+          schema_path: schema/schema.yml
+          document_path: '*.yml'
+      
