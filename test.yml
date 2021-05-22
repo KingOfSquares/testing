@@ -150,6 +150,6 @@ maps:
   - name: Treeshroud
     modes: 
       - Neutral Flag
-  - name: 1
+  - name: Ollie
     modes: 
       - Attrition
